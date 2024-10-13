@@ -11,9 +11,10 @@ const about = () => {
               WHO AM I !
             </h6>
             <p className="mt-5">
-              Hello, my name is Yavuz Selim. I was born on February 20th, 2003
-              in Istanbul, Turkey. I'm currently a sophomore studying Computer
-              Programming at Manisa Celal Bayar University.
+            Merhaba adım Yavuz Selim. 30 Temmuz 2003'te doğdum. 
+            Bilgisayar Programcılığı Ondokuz Mayıs Üniversitesi'nden mezunum.
+            İstanbul/Türkiye'de yaşıyorum. 
+            
             </p>
 
             <p className="mt-5">
