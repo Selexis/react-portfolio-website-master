@@ -34,6 +34,7 @@ const about = () => {
               Please visit my portfolio to learn more about me and see my work.
             </p>
             <h6 className="mt-5 font-bold transition-colors duration-300 cursor-pointer  hover:text-pinkish-200">
+              {/* Education: */}
               Education:
             </h6>
             <p>
